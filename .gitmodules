@@ -1,0 +1,3 @@
+[submodule "cxx-qt"]
+	path = cxx-qt
+	url = https://github.com/KDAB/cxx-qt.git
